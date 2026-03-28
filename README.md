@@ -1,8 +1,12 @@
 # Aura Kinetic Dashboard 🌌
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aura-kinetic.vercel.app/)
+
 A highly premium, aesthetically driven interactive dashboard built with React, Vite, and TailwindCSS. Aura Kinetic is designed to mimic a futuristic, deep-space HUD running at 60fps, featuring gorgeous glassmorphism elements, precise animations, and real-time kinetic modules.
 
 > Designed by **Sudiptaroy Akash** ([sudiptaroy.info](https://sudiptaroy.info))
+> 
+> ### 🔭 [View Live Demo Here: aura-kinetic.vercel.app](https://aura-kinetic.vercel.app/)
 
 ---
 
