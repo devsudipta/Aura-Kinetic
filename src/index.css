@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#08080c] text-white font-['JetBrains_Mono',_monospace] m-0 min-h-screen overflow-x-hidden selection:bg-[#00f2ff]/30;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-white/[0.03] backdrop-blur-[15px] border border-white/10 rounded-3xl shadow-[0_8px_32px_rgba(0,0,0,0.3)];
+  }
+}
