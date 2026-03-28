@@ -8,6 +8,8 @@ A highly premium, aesthetically driven interactive dashboard built with React, V
 > 
 > ### 🔭 [View Live Demo Here: aura-kinetic.vercel.app](https://aura-kinetic.vercel.app/)
 
+![Aura Kinetic Dashboard Screenshot](public/preview.png)
+
 ---
 
 ## 🚀 Key Features
